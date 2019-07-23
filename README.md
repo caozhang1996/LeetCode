@@ -12,4 +12,4 @@
 
 6、TestLeetcode6中的代码是一些与双指针相关的题目
 
-7、TestLeetcode6中的代码是一些与链表，二叉树相关的题目
+7、TestLeetcode7中的代码是一些与链表，二叉树相关的题目
